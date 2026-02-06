@@ -57,4 +57,7 @@ Dashboard gerencial con dos pestañas:
 ## Autor
 Marilyn Diana Ulloa Marcial — Genius Lab II — Febrero 2026. 
 
+## Link Dashboard
+https://dbc-692b6911-3563.cloud.databricks.com/dashboardsv3/01f10319bec3133f88909c013c181ee0/published?o=7474652008712159
+
 > Uso académico (Hackatón). Datos de fuentes públicas. Sin información personal sensible. 
